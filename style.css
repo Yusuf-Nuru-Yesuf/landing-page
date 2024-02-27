@@ -19,3 +19,9 @@ img {
 h1, h2, h3 {
     margin: 10px;
 }
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 10px 20px;
+}
