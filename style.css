@@ -40,3 +40,7 @@ h1, h2, h3 {
 .navbar ul {
     list-style-type: none;
 }
+
+.navbar .container {
+    display: flex;
+}
