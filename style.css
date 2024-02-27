@@ -25,7 +25,9 @@ h1, h2, h3 {
     margin: 0 auto;
     padding: 10px 20px;
 }
-
+a {
+    text-decoration: none;
+}
 .navbar {
     background: rgb(205, 88, 205);
     color: #fff;
