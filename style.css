@@ -11,3 +11,7 @@ body {
     color: #fff;
     background: rgb(150, 60, 178) ;
 }
+
+img {
+    width: 100%;
+}
