@@ -41,6 +41,9 @@ h1, h2, h3 {
     list-style-type: none;
     display: flex;
 }
+.navbar ul li {
+    margin-left: 20px;
+}
 
 .navbar .container {
     display: flex;
