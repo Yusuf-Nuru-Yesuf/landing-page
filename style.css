@@ -102,3 +102,11 @@ a {
     display: flex;
     justify-content: space-between;
 }
+
+.projects .project-content {
+    flex: 1;
+    margin: 2px 40px;
+    background-color: rgb(80, 23, 58);
+    border:rgb(80, 23, 58) solid 10px;
+    border-radius: 12px;
+}
