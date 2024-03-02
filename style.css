@@ -90,3 +90,10 @@ a {
     color: #fff;
     background-color: rgb(143, 8, 116);
 }
+
+.projects h2{
+    text-align: center;
+    font-size: 40px;
+    padding: 10px;
+    color: blanchedalmond;
+}
