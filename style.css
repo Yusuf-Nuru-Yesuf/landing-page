@@ -69,3 +69,12 @@ a {
     height: 400px;
     width: 600px;
 }
+
+.header h2 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.header p {
+    margin-bottom: 10px;
+}
