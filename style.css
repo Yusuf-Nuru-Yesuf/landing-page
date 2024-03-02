@@ -97,3 +97,8 @@ a {
     padding: 10px;
     color: blanchedalmond;
 }
+
+.projects .container {
+    display: flex;
+    justify-content: space-between;
+}
