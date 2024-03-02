@@ -23,7 +23,7 @@ h1, h2, h3 {
 .container {
     max-width: 1200px;
     margin: 0 auto;
-    padding: 10px 20px;
+    padding: 10px 0px;
 }
 a {
     text-decoration: none;
@@ -55,7 +55,7 @@ a {
 }
 
 .header {
-    min-height: 500px;
+    min-height: 400px;
     color: #fff;
     background: rgb(80, 23, 58);
 }
