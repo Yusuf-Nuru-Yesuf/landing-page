@@ -127,3 +127,21 @@ a {
     color: #151515;
     background-color: rgb(255, 144, 233);
 }
+
+.founder-quote .container {
+    padding: 50px 10px;
+}
+
+.founder-quote p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.founder-quote .quote {
+    text-align: center;
+    font-size: 36px;
+}
+
+.founder-quote .founder {
+    text-align: end;
+    font-weight: bold;
+}
