@@ -66,8 +66,7 @@ a {
 }
 
 .header img {
-    height: 400px;
-    width: 600px;
+    max-width: 700px;
 }
 
 .header h2 {
@@ -77,4 +76,11 @@ a {
 
 .header p {
     margin-bottom: 10px;
+}
+
+.header a {
+    color: rgb(80, 23, 58);
+    border: blanchedalmond solid ;
+    border-radius: 7px;
+    background-color:blanchedalmond;
 }
