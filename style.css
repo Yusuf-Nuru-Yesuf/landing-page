@@ -146,3 +146,11 @@ a {
     text-align: end;
     font-weight: bold;
 }
+
+.footer {
+    background-color: rgb(48, 10, 82);
+    padding: 40px;
+}
+ .footer {
+    text-align: center;
+ } 
