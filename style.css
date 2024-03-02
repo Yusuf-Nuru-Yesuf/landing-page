@@ -84,3 +84,9 @@ a {
     border-radius: 7px;
     background-color:blanchedalmond;
 }
+
+.projects {
+    padding: 1px;
+    color: #fff;
+    background-color: rgb(143, 8, 116);
+}
