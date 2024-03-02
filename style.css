@@ -53,3 +53,9 @@ a {
     align-items: center;
     height: 100%;
 }
+
+.header {
+    min-height: 500px;
+    color: #fff;
+    background: rgb(80, 23, 58);
+}
