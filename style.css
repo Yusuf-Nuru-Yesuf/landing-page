@@ -110,3 +110,15 @@ a {
     border:rgb(80, 23, 58) solid 10px;
     border-radius: 12px;
 }
+
+.projects .img {
+    min-width:200px;
+    max-height: 100px;
+}
+
+.project-content a {
+    color: rgb(80, 23, 58);
+    border: blanchedalmond solid ;
+    border-radius: 7px;
+    background-color:blanchedalmond;
+}
